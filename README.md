@@ -10,7 +10,8 @@ This repository contains my **daily Java practice programs**.
 I use this repo to learn the fundamentals of Java programming language, covering topics such as loops, conditionals, arrays, strings, and OOP basics.
 
 ## 📂 Folder Structure
-- [ASCII.java](./ASCII.java)  
+- [ASCII.java](./ASCII.java)
+- ASCII = American Standard Code for Information Interchange, which is a kinda map, and that's converts the characters into numbers vice versa as well  
 - [Control Statement.java](./Control%20Statement.java)  
 - [Datatypes.java](./Datatypes.java)  
 - [Formatspe.java](./Formatspe.java)  
