@@ -12,8 +12,10 @@ I use this repo to learn the fundamentals of Java programming language, covering
 ## 📂 Folder Structure
 - [ASCII.java](./ASCII.java)
 - ASCII = American Standard Code for Information Interchange, which is a kinda map, and that's converts the characters into numbers vice versa as well  
-- [Control Statement.java](./Control%20Statement.java)  
-- [Datatypes.java](./Datatypes.java)  
+- [Control Statement.java](./Control%20Statement.java)
+- If, else, and else-if lastly switch case as well.   
+- [Datatypes.java](./Datatypes.java)
+- This reffers to which value should contain in which types.
 - [Formatspe.java](./Formatspe.java)  
 - [Hello.java](./Hello.java)  
 - [Loop.java](./Loop.java)  
