@@ -16,7 +16,8 @@ I use this repo to learn the fundamentals of Java programming language, covering
 - If, else, and else-if lastly switch case as well.   
 - [Datatypes.java](./Datatypes.java)
 - This reffers to which value should contain in which types.
-- [Formatspe.java](./Formatspe.java)  
+- [Formatspe.java](./Formatspe.java)
+- Only we can use it with printf in a system outline  
 - [Hello.java](./Hello.java)  
 - [Loop.java](./Loop.java)  
 - [Typecasting.java](./Typecasting.java)  
